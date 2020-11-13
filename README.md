@@ -31,48 +31,11 @@ This course who are interested in not only understanding the basic methodology o
 |10|Aug 06| **Mini_Kaggle**: Facial Expression Recognition on `AffectNet` | 
 |11|Aug 10|`Awards` and `Closing`| 
 
-
-
-## Contents 
-### 01 Lecture: Environment setting and python basic
-:pencil2: Additional info: 
-
-### 02 Lecture: Pytorch basic
-:pencil2: Additional info: 
-
-### 03 Lecture: Linear Regression
-:pencil2: Additional info: 
-
-### 04 Lecture: Classification
-:pencil2: Additional info: 
-
-### 05 Lecture: `Know-how`: Model training 
-:pencil2: Additional info: 
-
-### 06 Lecture: MLP (Multi-Layer Perceptrone
-:pencil2: Additional info: 
-
-### 07 Lecture: CNN (Convolution Neural Network)
-:pencil2: Additional info: 
-
-### 08 Lecture: RNN (Recurrent neural Network)
-:pencil2: Additional info: 
-
-### 09 Lecture: RL (Reincement Learning)
-:pencil2: Additional info: 
-
-### 10 Lecture: **Mini_Kaggle**: Facial Expression Recognition on `AffectNet`
-:pencil2: Additional info (1) : https://paperswithcode.com/sota/facial-expression-recognition-on-affectnet
-:pencil2: Additional info (2) : https://arxiv.org/pdf/1708.03985.pdf
-
-
-
 ## Reference 
 - https://github.com/yunjey/pytorch-tutorial
-- 
-- 
+
 
 ## FeedBack 
 :loudspeaker:
-
+<img src="./img/feedback.png">
 
