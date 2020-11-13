@@ -1,4 +1,4 @@
-# Hands-on practice Pytorch 
+# Hands-on Pytorch 
 
 
 <p align="center"><img width="40%" src="img/pythorch_logo.jpeg" /></p>
