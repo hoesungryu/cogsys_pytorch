@@ -1,13 +1,12 @@
 # Hands-on practice Pytorch 
 
 
-<p align="center"><img width="40%" src="img/pytorch_logo.jpeg" /></p>
+<p align="center"><img width="40%" src="img/pythorch_logo.jpeg" /></p>
 
 ---
 
 This repository provides tutorial code for deep learning researchers to learn PyTorch. 
-If you have any questions in this document, please contact me:
-hoesungryu@yonsei.ac.kr
+If you have any questions in this document, please contact me: hoesungryu@korea.ac.kr
 
 
 ## Course Objectives 
